@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721045060 source:d:\c programming\gürbaðsorular\medium\lettercount\simplemode\main.c
+	<stdio.h>
+	<stdlib.h>
+

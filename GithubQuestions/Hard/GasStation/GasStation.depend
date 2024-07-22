@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721047676 source:d:\c programming\gürbaðsorular\hard\gasstation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

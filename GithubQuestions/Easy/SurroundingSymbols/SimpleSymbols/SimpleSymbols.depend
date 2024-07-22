@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1720958598 source:d:\c programming\gürbaðsorular\easy\changingletters\simplesymbols\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+

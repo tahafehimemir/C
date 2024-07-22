@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721044439 source:d:\c programming\gürbaðsorular\medium\binaryconverter\binaryconverter\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

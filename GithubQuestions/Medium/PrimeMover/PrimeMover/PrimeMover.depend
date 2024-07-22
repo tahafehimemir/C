@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720968339 source:d:\c programming\gürbaðsorular\medium\primemover\primemover\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

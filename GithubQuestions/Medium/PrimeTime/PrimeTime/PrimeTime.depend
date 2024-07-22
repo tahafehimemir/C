@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720964712 source:d:\c programming\gürbaðsorular\easy\alphabetsoup\primetime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

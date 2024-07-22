@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721042849 source:d:\c programming\gürbaðsorular\medium\arrayaddition\arrayaddition\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
